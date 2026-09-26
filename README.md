@@ -43,4 +43,4 @@ An interactive, end-to-end Power BI analytics dashboard built for **Maven Market
 * **Weekly Revenue Trending:** Bar chart visualizations tracking revenue trajectory over extended monthly and yearly timelines (1997–1998).
 ### 6. Screenshots / Demos
 
-*Dashboard looks like: ![Dashboard Preview](https://github.com/samadhanshinde1007-dev/Maven-Market-Project/blob/main/Snapshot%20of%20maven%20dashboard.png)
+* Dashboard looks like: ![Dashboard Preview](https://github.com/samadhanshinde1007-dev/Maven-Market-Project/blob/main/Snapshot%20of%20maven%20dashboard.png)**
