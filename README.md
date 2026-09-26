@@ -42,6 +42,5 @@ An interactive, end-to-end Power BI analytics dashboard built for **Maven Market
 * Detailed breakdown tracking return volumes (**8K items / 0.99% Return Rate**) and transaction distributions across weekdays vs. weekends (**28.4% weekend transactions**).
 * **Weekly Revenue Trending:** Bar chart visualizations tracking revenue trajectory over extended monthly and yearly timelines (1997–1998).
 ### 6. Screenshots / Demos
-*Show what the dashboard looks like. - ![Alt_text](https://github.com/username/repo/assets/image.png)
 
-*Example: ![Dashboard Preview](https://github.com/samadhanshinde1007-dev/Maven-Market-Project/blob/main/Snapshot%20of%20maven%20dashboard.png)
+*Dashboard looks like: ![Dashboard Preview](https://github.com/samadhanshinde1007-dev/Maven-Market-Project/blob/main/Snapshot%20of%20maven%20dashboard.png)
